@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "eamodio.gitlens",
+        "donjayamanne.githistory",
+        "mhutchie.git-graph",
+        "golang.go"
+    ]
+}
